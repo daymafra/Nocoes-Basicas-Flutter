@@ -21,6 +21,4 @@ Este projeto foi uma ótima maneira de aprender as noções básicas de Flutter 
 * O framework Flutter foi usado para construir o aplicativo.
 * O projeto foi testado no Android.
 
- ![image](https://github.com/daymafra/Nocoes-Basicas-Flutter/assets/74122669/01c2f203-a197-4fb1-9402-6211daaaa38c)
-
 _Eu espero que esta descrição seja útil. Se você tiver alguma dúvida, sinta-se à vontade para entrar em contato comigo._
